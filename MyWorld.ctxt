@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ Klavs\ Eglitis\r\n\ @version\ 3/23/2017\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ MyWorld\ switch\ pictures\ forward\ by\ one,\ making\ it\ a\ motion\ video\ \r\n\ using\ a\ loop.\r\n\ @param\ There\ are\ not\ parameters.\r\n\ @return\ An\ instance\ of\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=x
+comment3.target=void\ setSlowness(int)
+comment3.text=\r\n\ setSlowness\ sets\ video\ slowness.\r\n\ @param\ x\ is\ the\ number\ that\ represents\ how\ slow.\r\n\ @return\ Nothing\ is\ returned.\r\n
+numComments=4
